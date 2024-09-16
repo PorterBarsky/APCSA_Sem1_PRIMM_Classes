@@ -12,19 +12,19 @@ it can help supplement your notes.
 **Without running the program**, predict what its behavior is.
 
 1. What will the program output when it is run?
-    >  your answer
+    >  The program will print out doubles of the area and perimeter of a square
 
 2. What do you think the words `public` and `private` mean?
-    > your answer
+    > public means that the class can be called in other classes and private means it cant be
 
 3. How are the files `ShapeDriver.java` and `Square.java` related? 
-    > your answer
+    > Square.java does the calculations of the square and ShapeDriver.java prints the answers
 
 4. There is no method definition for `Square()`. Do you think the code will compile? 
-    > your answer
+    > No
 
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > your answer
+    > To get the length of the sides
 
 ## Run
 Run the program. 
